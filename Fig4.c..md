@@ -2,6 +2,19 @@ Workflow_PLA
 ================
 Damien, Dufour
 
+# Description
+
+How to analyse data from PLA on tissues
+
+# Protocol
+
+Adrenals were fixed in PFA 4% for 6 hours and embedded in paraffin. 5µm
+sections were used according to Duolink PLA protocol. Pictures were
+taken with a Zeiss Imager M2 with enough stacks to cover all the visible
+*foci*.
+
+# Image analysis
+
 ## Merge stacks into one based on maximal values
 
 run this script in FIJI. It makes you choose an image, then merge the
